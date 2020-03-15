@@ -12,7 +12,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>ipa.ipa</string>
+                    <string>https://ipa.jyc001.club/ipa.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
