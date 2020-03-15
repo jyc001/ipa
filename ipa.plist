@@ -18,13 +18,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>jyc001</string>
+                <string>com.jyc</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>100.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>安装</string>
+                <string>App</string>
             </dict>
         </dict>
     </array>
